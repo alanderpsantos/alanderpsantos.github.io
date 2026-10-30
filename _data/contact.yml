@@ -5,13 +5,13 @@
 
 - type: bluesky
   icon: 'fa-brands fa-bluesky'
-  url: 'alanderps.bsky.social'  # Fill with your Bluesky profile link
+  url: 'https://bsky.app/profile/alanderps.bsky.social'  # Fill with your Bluesky profile link
 
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-  - type: linkedin
+- type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://www.linkedin.com/in/alandersantos'                  # Fill with your Linkedin homepage
 
